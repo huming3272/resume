@@ -505,3 +505,9 @@ section.message > ol > li {
     padding: 16px;
     border-bottom: 1px solid #DDD;
 }
+
+.swiper-wrapper  img {
+    
+    width: 668px;
+    height: 501px;
+}
